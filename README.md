@@ -9,7 +9,7 @@ https://github.com/RiskyWilhelm/full-fitment-school-backend
 * `RUN!!`
 
 ## Front-end
-Vue 3 is used for front-end. Fetch is used to call backend API data. The homepage is currently blank. Future actions are noted on the About page. CRUD operations are available in the Posts link.  It is located in the Vue frontend `02-vue-frontend` folder. `Composition API` is used in all Vue scripts.
+Vue 3 is used for front-end. Fetch is used to call backend API data.
 
 
 ### For frontend setup
